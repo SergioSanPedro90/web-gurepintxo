@@ -1,0 +1,89 @@
+{
+  "_REVISAR": "REVISAR: JSON no admite comentarios, por eso esta nota va como clave. Todos los textos de este archivo son traducciones nuevas y debe revisarlos alguien con buen euskera, EXCEPTO legal.privacy.body, legal.terms.body y los títulos legal.*.title, que vienen copiados de la app.",
+  "meta": {
+    "homeTitle": "GurePintxo · Euskadiko pintxo-tabernak",
+    "homeDescription": "Aurkitu Euskadiko pintxo-taberna onenak: gertuko tabernen mapa, iruzkinak argazkiekin eta zure pintxo-ibilbide propioak."
+  },
+  "nav": {
+    "home": "Hasiera",
+    "language": "Hizkuntza"
+  },
+  "footer": {
+    "privacy": "Pribatutasuna",
+    "terms": "Baldintzak",
+    "deleteAccount": "Kontua ezabatu",
+    "contact": "Harremanetarako"
+  },
+  "home": {
+    "eyebrow": "Euskadiko pintxo-tabernak",
+    "tagline": "Euskadiko pintxo-taberna onenak, zure poltsikoan.",
+    "playButton": "Google Play",
+    "comingSoon": "Laster",
+    "screenshotsTitle": "Horrelakoa da aplikazioa",
+    "howTitle": "Nola dabil",
+    "features": {
+      "nearby": {
+        "name": "Gertu",
+        "text": "Ireki mapa eta ikusi zer pintxo-taberna dituzun inguruan. Iragazi glutenik gabekoak, beganoak edo txakurrak onartzen dituztenak."
+      },
+      "discover": {
+        "name": "Aurkitu",
+        "text": "Arakatu tabernak herriz herri, balorazio onenekoak eta komunitatearen berritasunak. Bilatu taberna, herria edo probintzia."
+      },
+      "bar": {
+        "name": "Tabernaren fitxa",
+        "text": "Helbidea, telefonoa, nola iritsi eta beste erabiltzaileen iruzkinak argazkiekin. Gorde zure gogokoak eta utzi zure iruzkina."
+      },
+      "routes": {
+        "name": "Ibilbideak",
+        "text": "Sortu zure pintxo-ibilbideak nahi dituzun geldialdiekin, eta ireki Maps-en ibilbideari jarraitzeko."
+      }
+    },
+    "sources": {
+      "title": "Nondik datoz tabernak?",
+      "officialTitle": "Taberna ofizialak",
+      "official": "Eusko Jaurlaritzaren Euskadi Gastronomika produktu-klubari atxikitako tabernak dira, Open Data Euskadiko datuekin.",
+      "communityTitle": "Komunitatearen tabernak",
+      "community": "Edozein erabiltzailek iradoki ditzake taberna berriak. Administratzaile batek iradokizun bakoitza berrikusten du argitaratu aurretik."
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Pribatutasun Politika",
+      "description": "Nola tratatzen dituen GurePintxok zure datu pertsonalak eta zer eskubide dituzun.",
+      "body": "Azken eguneratzea: 2026ko urriaren 2a\n\nGurePintxon serio hartzen dugu zure pribatutasuna. Dokumentu honek azaltzen du nor den zure datuen arduraduna, zer datu biltzen ditugun, zertarako eta zer oinarri juridikorekin erabiltzen ditugun, norekin partekatzen ditugun eta zer eskubide dituzun haien gainean.\n\n1. Tratamenduaren arduraduna\n\n- Arduraduna: Sergio San Pedro Alvarez.\n- Harremanetarako emaila: contacto@gurepintxo.com.\n\n2. Biltzen ditugun datuak\n\n- Kontuaren datuak: izena, emaila eta pasahitza (zifratuta gordeta, inoiz ez testu arruntean), erregistratzean.\n- Profileko argazkia (avatarra): gehitzea erabakitzen baduzu. Argitaratzen dituzun iruzkinetan agertzen da, zure izenaren ondoan.\n- Kokapena: baimena ematen badiguzu, zure gailuaren kokapena erabiltzen dugu hurbilen dauden tabernak erakusteko, distantziak kalkulatzeko eta mapa zentratzeko. Kokapena zure gailuan bakarrik prozesatzen da: ez dugu gure zerbitzarira bidaltzen, ezta gordetzen ere. Baimen hori edonoiz kendu dezakezu gailuaren ezarpenetatik, nahiz eta maparen funtzio batzuk erabilgarri egoteari utziko dioten.\n- Zuk sortutako edukia: zure gogokoak, sortzen dituzun ibilbideak, argitaratzen dituzun iruzkinak (balorazioa, iruzkina eta, gehitzen badituzu, argazkiak) eta iradokitzen dituzun tabernak.\n- Aplikazioak funtzionatzeko beharrezkoak diren oinarrizko datu teknikoak (adibidez, saioa irekita mantentzen dizun saio-tokena).\n\n3. Zertarako erabiltzen ditugun zure datuak eta zer oinarri juridikorekin\n\nKontratua betetzea, hau da, erregistratzean eskatzen duzun zerbitzua ematea (DBEOren 6.1.b artikulua):\n- Zure kontua sortzea eta kudeatzea, eta saioa irekita mantentzea.\n- Erregistratzean zure emaila egiaztatzea, mezu automatiko baten bidez.\n- Zure gogokoak, ibilbideak eta iruzkinak gordetzea eta erakustea.\n- Zure iruzkinak aplikazioko beste erabiltzaileei publikoki erakustea, zure izenarekin eta profileko argazkiarekin batera.\n- Iradokitzen dituzun tabernak kudeatzea.\n\nBaimena (DBEOren 6.1.a artikulua):\n- Kokapena: gailuan baimena ematen baduzu bakarrik.\n- Argazkiak: zure profileko argazkia eta zure iruzkinetako argazkiak, zuk borondatez igotzen dituzunak.\nZure baimena edonoiz kendu dezakezu kokapen-baimena desaktibatuz, argazkiak dituzten iruzkinak ezabatuz edo contacto@gurepintxo.com helbidera idatziz zure profileko argazkia ezaba dezagun; horrek ez dio eragingo aurretik egindako tratamenduaren zilegitasunari.\n\nInteres legitimoa (DBEOren 6.1.f artikulua):\n- Aplikazioaren eta haren erabiltzaileen segurtasuna bermatzea eta gehiegikeriak saihestea.\n- Edukia moderatzea: salatutako iruzkinak eta iradokitako tabernak argitaratu aurretik berrikustea.\n\n4. Norekin partekatzen ditugun zure datuak\n\nEz ditugu zure datu pertsonalak saltzen, ezta hirugarrenei lagatzen ere helburu komertzialekin. Aplikazioak funtziona dezan, honako hornitzaile hauek erabiltzen ditugu; gure izenean tratatzen dituzte datuak, eta beren zerbitzua emateko soilik:\n\n- Railway: aplikazioaren zerbitzaria eta datu-basea ostatatzea.\n- Cloudinary: argazkiak gordetzea (profileko argazkiak eta iruzkinetako argazkiak).\n- Brevo: emaila egiaztatzeko mezuak bidaltzea.\n- Google Maps Platform: mapak erakustea eta tabernak bilatzea taberna berri bat iradokitzen duzunean.\n\nHornitzaile horietako batzuk Ameriketako Estatu Batuetan daude edo han trata ditzakete datuak. Kasu horietan, nazioarteko transferentziak DBEOk aurreikusitako bermeetan oinarritzen dira: EB eta AEBen arteko Datuen Pribatutasun Esparruan, hornitzailea hari atxikita badago, edo Europako Batzordeak onartutako kontratu-klausula estandarretan.\n\n5. Zenbat denboraz gordetzen ditugun zure datuak\n\nZure kontua aktibo dagoen bitartean gordetzen ditugu zure datuak. Zure kontua ezabatzen baduzu:\n\n- Zure datu pertsonalak (izena, emaila, pasahitza eta profileko argazkia), zure ibilbideak eta zure gogokoak ezabatu egiten dira.\n- Zure iruzkinak, haien argazkiak eta iradoki dituzun tabernak modu anonimoan gordetzen dira: ez daude zurekin lotuta eta \"Anonimoa\" gisa agertzen dira.\n- Aplikaziotik zure iruzkinak bakarrik ezaba ditzakezu: gordetzea nahi ez baduzu, ezabatu itzazu kontua ezabatu aurretik. Iradokitako tabernak ezin dira aplikaziotik ezabatu; ezabatzeko, idatzi iezaguzu contacto@gurepintxo.com helbidera.\n\nHori guztia, legeak datu jakin batzuk epe jakin batean gordetzera behartzen ez gaituen bitartean.\n\n6. Zure eskubideak\n\nEdonoiz erabil ditzakezu zure datuak eskuratzeko, zuzentzeko, ezabatzeko, aurka egiteko eta tratamendua mugatzeko eskubideak, baita datuen eramangarritasunerako eskubidea ere:\n\n- Aplikaziotik: zure Profilean zure datuak editatu eta zure kontua ezabatu ditzakezu.\n- Emailez: contacto@gurepintxo.com helbidera idatzita.\n\nZure datuak behar bezala tratatu ez ditugula uste baduzu, erreklamazioa aurkezteko eskubidea duzu Datuak Babesteko Espainiako Agentzian (www.aepd.es).\n\n7. Adingabeak\n\nGurePintxo ez dago 14 urtetik beherakoei zuzenduta, eta ez dugu nahita adin horretatik beherakoen daturik biltzen. 14 urtetik beherako baten kontu bat hautematen badugu, ezabatu egingo dugu.\n\n8. Politika honen aldaketak\n\nNoizean behin politika hau egunera dezakegu. Aldaketa garrantzitsuak egiten baditugu, aplikazioaren barruan jakinaraziko dizugu.\n\n9. Harremanetarako\n\nPribatutasun politika honi buruzko zalantzarik baduzu, idatzi iezaguzu contacto@gurepintxo.com helbidera."
+    },
+    "terms": {
+      "title": "Erabilera Baldintzak",
+      "description": "GurePintxo aplikazioa erabiltzeko baldintzak.",
+      "body": "Azken eguneratzea: 2026ko urriaren 2a\n\nGurePintxo erabiltzean, baldintza hauek onartzen dituzu. Ados ez bazaude, ez erabili aplikazioa.\n\n1. Zer da GurePintxo\n\nGurePintxo Euskadi Gastronomika produktu-klubeko pintxo-tabernen direktorio bat da, eta mapa, gogokoak, ibilbide pertsonalizatuak, erabiltzaileen iruzkinak eta komunitateak iradokitako tabernak ditu. Aplikazioaren arduraduna Sergio San Pedro Alvarez da (contacto@gurepintxo.com).\n\n2. Gutxieneko adina\n\nGutxienez 14 urte izan behar dituzu kontu bat sortzeko eta GurePintxo erabiltzeko.\n\n3. Zure kontua\n\n- Erregistratzean, informazio egiazkoa eman behar duzu.\n- Zure pasahitza isilpean gordetzea zure ardura da.\n- Ez dago baimenduta beste pertsona edo negozio baten nortasuna ordezteko kontuak sortzea.\n\n4. Argitaratzen duzun edukia\n\nIruzkin bat idaztean edo argazki bat igotzean, eduki horren jabetza zurea da, baina baimena ematen diguzu aplikazioan erakusteko, zure erabiltzaile-izenarekin eta profileko argazkiarekin batera.\n\nIruzkinek:\n- Zure iritzi zintzoa eta tabernan izandako benetako esperientzia islatu behar dute.\n- Ez dute hizkera iraingarririk, difamaziorik, spamik edo legez kanpoko edukirik izan behar.\n- Ez dituzte hirugarrenen eskubideak urratu behar (adibidez, zureak ez diren argazkiak).\n\nEdozein erabiltzailek sala dezake desegokitzat jotzen duen iruzkin bat. Salaketak GurePintxoren administrazioak berrikusten ditu, eta hark erabakiko du iruzkina mantendu ala ezabatu.\n\nArau hauek betetzen ez dituen edukia ezabatzeko eskubidea gordetzen dugu, baita arauak behin eta berriz urratzen dituzten kontuak etetekoa ere.\n\n5. Taberna-datuen jatorria\n\n- Taberna ofizialak: haien datuak Open Data Euskaditik (Eusko Jaurlaritza) datoz, eta haren lizentziaren arabera berrerabiltzen dira. Iturria: Open Data Euskadi, Eusko Jaurlaritza (CC BY 4.0 lizentzia).\n- Komunitateak iradokitako tabernak: Google Maps bidez kokatzen dira. Iradokizun bakoitza berrikusi egiten da argitaratu aurretik, eta ez dugu bermatzen iradokizun guztiak onartuko direnik.\n\n6. Aplikazioaren erabilera baimendua\n\nEz dago baimenduta:\n- Beste erabiltzaileen datuetara baimenik gabe sartzen saiatzea.\n- Aplikazioa aurreikusitakoez bestelako helburuetarako erabiltzea (adibidez, datuak modu masiboan erauztea edo scraping-a egitea).\n- Aplikazioaren edo haren zerbitzarien ohiko funtzionamenduan eragozpenak sortzea.\n\n7. Zerbitzuaren erabilgarritasuna\n\nGurePintxo \"dagoen bezala\" eskaintzen da. Ahal duguna egiten dugu tabernen informazioa eguneratuta izateko, baina ez dugu bermatzen datuak (ordutegiak, helbidea, etab.) beti zehatzak direnik; zalantzarik baduzu, tabernarekin zuzenean egiaztatzea gomendatzen dizugu.\n\n8. Kontua ezabatzea\n\nZure kontua edonoiz ezaba dezakezu zure Profiletik. Hori egitean, zure datu pertsonalak, zure ibilbideak eta zure gogokoak ezabatu egiten dira. Zure iruzkinak, haien argazkiak eta iradoki dituzun tabernak modu anonimoan gordetzen dira, eta \"Anonimoa\" gisa agertzen dira. Aplikaziotik zure iruzkinak bakarrik ezaba ditzakezu: gordetzea nahi ez baduzu, ezabatu itzazu kontua ezabatu aurretik. Iradokitako tabernak ezabatzeko, idatzi iezaguzu contacto@gurepintxo.com helbidera. Xehetasun gehiago gure Pribatutasun Politikan aurkituko dituzu.\n\n9. Baldintza hauen aldaketak\n\nNoizean behin baldintza hauek egunera ditzakegu. Aldaketa baten ondoren aplikazioa erabiltzen jarraitzeak baldintza berriak onartzen dituzula esan nahi du.\n\n10. Legedi aplikagarria\n\nBaldintza hauek Espainiako legediaren arabera arautzen dira, kontsumitzaileak babesteko araudi aplikagarriak aitortzen dizkizun eskubideei kalterik egin gabe.\n\n11. Harremanetarako\n\nBaldintza hauei buruzko edozein kontsultarako, idatzi iezaguzu contacto@gurepintxo.com helbidera."
+    }
+  },
+  "deleteAccount": {
+    "title": "Zure kontua ezabatu",
+    "description": "Nola ezabatu zure GurePintxo kontua eta zer gertatzen den zure datuekin.",
+    "intro": "Zure GurePintxo kontua edonoiz ezaba dezakezu aplikaziotik bertatik.",
+    "howTitle": "Nola ezabatu aplikaziotik",
+    "steps": [
+      "Ireki GurePintxo eta hasi saioa.",
+      "Joan Profila fitxara.",
+      "Sakatu «Kontua ezabatu» eta berretsi."
+    ],
+    "deletedTitle": "Zer ezabatzen da",
+    "deleted": [
+      "Zure kontua eta datu pertsonalak (izena, emaila, pasahitza eta profileko argazkia).",
+      "Zure ibilbideak.",
+      "Zure gogokoak."
+    ],
+    "keptTitle": "Zer gordetzen da modu anonimoan",
+    "keptIntro": "Honako hauek mantendu egiten dira, baina zure izenik eta datu pertsonalik gabe («Anonimoa» gisa agertzen dira):",
+    "kept": [
+      "Zure iruzkinak, haien argazkiekin.",
+      "Iradoki dituzun tabernak, berrikusteko zain edo onartuta badaude."
+    ],
+    "rejectedNote": "Baztertutako taberna iradokiak ezabatu egiten dira.",
+    "tip": "Zure iruzkinak gordetzea nahi ez baduzu, zuk zeuk ezaba ditzakezu aplikaziotik, kontua ezabatu aurretik.",
+    "fullTitle": "Zure iruzkinak eta argazkiak ere ezabatu",
+    "fullText": "Anonimizatutako iruzkinak eta argazkiak ere ezabatzeko, idatzi iezaguzu helbide honetara:"
+  }
+}

@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+/*
+  Tailwind v4: los tokens de diseño se declaran aquí con @theme (ya no hay tailwind.config).
+  Cada --color-xxx genera clases como bg-xxx, text-xxx, border-xxx...
+  Colores copiados tal cual del tailwind.config.js de la app.
+*/
+@theme {
+  --color-ink: #1b2420;
+  --color-paper: #f2ecdd;
+  --color-pimiento: #c4432b;
+  --color-sagardo: #8a9a63;
+  --color-txakoli: #d9b44a;
+}
+
+/*
+  Fuentes: next/font crea las variables --font-fraunces, etc. en <html>.
+  "inline" hace que Tailwind use la variable directamente → clases font-display, font-body, font-mono.
+*/
+@theme inline {
+  --font-display: var(--font-fraunces);
+  --font-body: var(--font-public-sans);
+  --font-mono: var(--font-jetbrains-mono);
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}

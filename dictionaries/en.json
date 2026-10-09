@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "homeTitle": "GurePintxo · Pintxo bars in the Basque Country",
+    "homeDescription": "Discover the best pintxo bars in the Basque Country: a map of nearby bars, reviews with photos and your own pintxo routes."
+  },
+  "nav": {
+    "home": "Home",
+    "language": "Language"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "deleteAccount": "Delete account",
+    "contact": "Contact"
+  },
+  "home": {
+    "eyebrow": "Pintxo bars in the Basque Country",
+    "tagline": "The best pintxo bars in the Basque Country, in your pocket.",
+    "playButton": "Google Play",
+    "comingSoon": "Coming soon",
+    "screenshotsTitle": "A look inside the app",
+    "howTitle": "How it works",
+    "features": {
+      "nearby": {
+        "name": "Nearby",
+        "text": "Open the map and see which pintxo bars are around you. Filter by gluten-free, vegan or dog-friendly."
+      },
+      "discover": {
+        "name": "Discover",
+        "text": "Browse bars by town, the top-rated ones and the latest additions from the community. Search by bar, town or province."
+      },
+      "bar": {
+        "name": "Bar details",
+        "text": "Address, phone, directions and reviews with photos from other users. Save your favourites and leave your own review."
+      },
+      "routes": {
+        "name": "Routes",
+        "text": "Create your own pintxo routes with as many stops as you like and open them in Maps to follow the way."
+      }
+    },
+    "sources": {
+      "title": "Where do the bars come from?",
+      "officialTitle": "Official bars",
+      "official": "These are the bars that belong to the Basque Government's Euskadi Gastronomika product club, with data from Open Data Euskadi.",
+      "communityTitle": "Community bars",
+      "community": "Any user can suggest new bars. An administrator reviews every suggestion before it is published."
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "How GurePintxo handles your personal data and what rights you have.",
+      "body": "Last updated: 2 October 2026\n\nAt GurePintxo we take your privacy seriously. This document explains who is responsible for your data, what data we collect, what we use it for and on what legal basis, who we share it with, and what rights you have over it.\n\n1. Data controller\n\n- Controller: Sergio San Pedro Alvarez.\n- Contact email: contacto@gurepintxo.com.\n\n2. Data we collect\n\n- Account data: name, email and password (stored encrypted, never in plain text) when you sign up.\n- Profile photo (avatar): if you choose to add one. It is shown next to your name on the reviews you publish.\n- Location: if you give us permission, we use your device's location to show you the nearest bars, calculate distances and centre the map. Your location is processed only on your device: we do not send it to our server or store it. You can withdraw this permission at any time from your device settings, although some map features will stop working.\n- Content you create: your favourites, the routes you create, the reviews you publish (rating, comment and, if you add them, photos) and the bars you suggest.\n- Basic technical data needed for the app to work (for example, the session token that keeps you signed in).\n\n3. What we use your data for and on what legal basis\n\nPerformance of the service you request when signing up (Art. 6(1)(b) GDPR):\n- Creating and managing your account and keeping you signed in.\n- Verifying your email when you sign up, through an automated email.\n- Saving and showing you your favourites, routes and reviews.\n- Showing your reviews publicly to other app users, together with your name and profile photo.\n- Handling the bars you suggest.\n\nConsent (Art. 6(1)(a) GDPR):\n- Location: only if you grant the permission on your device.\n- Photos: your profile photo and your review photos, which you upload voluntarily.\nYou can withdraw your consent at any time by turning off the location permission, deleting the reviews to which you have added photos, or writing to us at contacto@gurepintxo.com to have your profile photo removed, without affecting the lawfulness of prior processing.\n\nLegitimate interest (Art. 6(1)(f) GDPR):\n- Keeping the app and its users safe and preventing abuse.\n- Moderating content: reviewing reported reviews and suggested bars before they are published.\n\n4. Who we share your data with\n\nWe do not sell or transfer your personal data to third parties for commercial purposes. To run the app we use the following providers, which process data on our behalf and only to provide their service to us:\n\n- Railway: hosting of the app's server and database.\n- Cloudinary: storage of photos (profile photos and review photos).\n- Brevo: sending email verification messages.\n- Google Maps Platform: displaying maps and searching for bars when you suggest a new one.\n\nSome of these providers are based in the United States or may process data there. In those cases, international transfers are covered by the safeguards provided for in the GDPR: the EU-U.S. Data Privacy Framework, where the provider is certified under it, or the standard contractual clauses approved by the European Commission.\n\n5. How long we keep your data\n\nWe keep your data while your account is active. If you delete your account:\n\n- Your personal data (name, email, password and profile photo), your routes and your favourites are deleted.\n- Your reviews, their photos and the bars you have suggested are kept anonymously: they are no longer linked to you and appear as \"Anonymous\".\n- In the app you can only delete your reviews: if you do not want them kept, delete them before deleting your account. Suggested bars cannot be deleted in the app; to have them removed, write to us at contacto@gurepintxo.com.\n\nAll of the above applies unless the law requires us to keep specific data for a certain period.\n\n6. Your rights\n\nYou can exercise your rights of access, rectification, erasure, objection, restriction of processing and data portability at any time:\n\n- In the app: in your Profile you can edit your data and delete your account.\n- By email: by writing to us at contacto@gurepintxo.com.\n\nIf you believe we have not handled your data properly, you have the right to lodge a complaint with the Spanish Data Protection Agency (Agencia Española de Protección de Datos, www.aepd.es).\n\n7. Minors\n\nGurePintxo is not intended for children under 14 and we do not knowingly collect data from children under that age. If we detect an account belonging to a child under 14, we will delete it.\n\n8. Changes to this policy\n\nWe may update this policy from time to time. If we make significant changes, we will notify you within the app.\n\n9. Contact\n\nIf you have any questions about this privacy policy, write to us at contacto@gurepintxo.com."
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "description": "Terms of use of the GurePintxo app.",
+      "body": "Last updated: 2 October 2026\n\nBy using GurePintxo, you agree to the following terms. If you do not agree with them, please do not use the app.\n\n1. What GurePintxo is\n\nGurePintxo is a directory of pintxo bars belonging to the Euskadi Gastronomika product club, with map, favourites, custom routes, user reviews and community-suggested bars. The app is run by Sergio San Pedro Alvarez (contacto@gurepintxo.com).\n\n2. Minimum age\n\nYou must be at least 14 years old to create an account and use GurePintxo.\n\n3. Your account\n\n- You must provide truthful information when signing up.\n- You are responsible for keeping your password confidential.\n- Creating accounts in order to impersonate another person or business is not allowed.\n\n4. Content you publish\n\nWhen you write a review or upload a photo, you keep ownership of that content, but you grant us permission to display it within the app together with your username and profile photo.\n\nReviews must:\n- Reflect your honest opinion and your real experience at the bar.\n- Not contain offensive or defamatory language, spam or illegal content.\n- Not infringe third-party rights (for example, photos that are not yours).\n\nAny user can report a review they consider inappropriate. Reports are reviewed by the GurePintxo administration, which will decide whether the review is kept or removed.\n\nWe reserve the right to remove content that breaches these rules and to suspend accounts that repeatedly breach them.\n\n5. Source of bar data\n\n- Official bars: their data comes from Open Data Euskadi (Basque Government) and is reused in accordance with its licence. Source: Open Data Euskadi, Basque Government (CC BY 4.0 licence).\n- Community-suggested bars: they are located using Google Maps. Each suggestion goes through a review process before being published, and we do not guarantee that every suggestion will be accepted.\n\n6. Permitted use of the app\n\nYou may not:\n- Try to access other users' data without authorisation.\n- Use the app for purposes other than those intended (for example, mass data scraping).\n- Interfere with the normal operation of the app or its servers.\n\n7. Service availability\n\nGurePintxo is provided \"as is\". We do our best to keep bar information up to date, but we do not guarantee that the data (opening hours, address, etc.) is always accurate; we recommend confirming directly with the bar if in doubt.\n\n8. Account deletion\n\nYou can delete your account at any time from your Profile. When you do, your personal data, your routes and your favourites are deleted. Your reviews, their photos and the bars you have suggested are kept anonymously and appear as \"Anonymous\". In the app you can only delete your reviews: if you do not want them kept, delete them before deleting your account. To have the bars you have suggested removed, write to us at contacto@gurepintxo.com. You will find more details in our Privacy Policy.\n\n9. Changes to these terms\n\nWe may update these terms from time to time. Continued use of the app after a change means you accept the new terms.\n\n10. Governing law\n\nThese terms are governed by Spanish law, without prejudice to any rights you may have under applicable consumer protection law.\n\n11. Contact\n\nFor any questions about these terms, write to us at contacto@gurepintxo.com."
+    }
+  },
+  "deleteAccount": {
+    "title": "Delete your account",
+    "description": "How to delete your GurePintxo account and what happens to your data.",
+    "intro": "You can delete your GurePintxo account at any time from within the app.",
+    "howTitle": "How to delete it in the app",
+    "steps": [
+      "Open GurePintxo and sign in.",
+      "Go to the Profile tab.",
+      "Tap “Delete account” and confirm."
+    ],
+    "deletedTitle": "What is deleted",
+    "deleted": [
+      "Your account and personal data (name, email, password and profile photo).",
+      "Your routes.",
+      "Your favourites."
+    ],
+    "keptTitle": "What is kept anonymously",
+    "keptIntro": "The following is kept, but without your name or any personal data (it appears as “Anonymous”):",
+    "kept": [
+      "Your reviews, with their photos.",
+      "Bars you suggested that are pending review or approved."
+    ],
+    "rejectedNote": "Suggested bars that were rejected are deleted.",
+    "tip": "If you do not want your reviews to be kept, you can delete them yourself in the app before deleting your account.",
+    "fullTitle": "Delete your reviews and photos too",
+    "fullText": "To ask us to also delete your anonymised reviews and photos, write to us at:"
+  }
+}

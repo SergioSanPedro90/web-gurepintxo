@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "homeTitle": "GurePintxo · Bares de pintxos de Euskadi",
+    "homeDescription": "Descubre los mejores bares de pintxos de Euskadi: mapa de bares cercanos, reseñas con fotos y tus propias rutas de pintxos."
+  },
+  "nav": {
+    "home": "Inicio",
+    "language": "Idioma"
+  },
+  "footer": {
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "deleteAccount": "Eliminar cuenta",
+    "contact": "Contacto"
+  },
+  "home": {
+    "eyebrow": "Bares de pintxos de Euskadi",
+    "tagline": "Los mejores bares de pintxos de Euskadi, en tu bolsillo.",
+    "playButton": "Google Play",
+    "comingSoon": "Próximamente",
+    "screenshotsTitle": "Así es la app",
+    "howTitle": "Cómo funciona",
+    "features": {
+      "nearby": {
+        "name": "Cerca",
+        "text": "Abre el mapa y mira qué bares de pintxos tienes a tu alrededor. Filtra por sin gluten, vegano o si admiten perros."
+      },
+      "discover": {
+        "name": "Descubrir",
+        "text": "Explora bares por pueblos, los mejor valorados y las novedades de la comunidad. Busca por bar, pueblo o provincia."
+      },
+      "bar": {
+        "name": "Ficha de bar",
+        "text": "Dirección, teléfono, cómo llegar y reseñas con fotos de otros usuarios. Guarda tus favoritos y deja tu propia reseña."
+      },
+      "routes": {
+        "name": "Rutas",
+        "text": "Crea tus rutas de pintxos con las paradas que quieras y ábrelas en Maps para seguir el recorrido."
+      }
+    },
+    "sources": {
+      "title": "¿De dónde salen los bares?",
+      "officialTitle": "Bares oficiales",
+      "official": "Son los bares adheridos al club de producto Euskadi Gastronomika del Gobierno Vasco, con datos de Open Data Euskadi.",
+      "communityTitle": "Bares de la comunidad",
+      "community": "Cualquier usuario puede sugerir bares nuevos. Un administrador revisa cada sugerencia antes de publicarla."
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Política de Privacidad",
+      "description": "Cómo trata GurePintxo tus datos personales y qué derechos tienes.",
+      "body": "Última actualización: 2 de octubre de 2026\n\nEn GurePintxo nos tomamos en serio tu privacidad. Este documento explica quién es el responsable de tus datos, qué datos recogemos, para qué y con qué base legal los usamos, con quién los compartimos y qué derechos tienes sobre ellos.\n\n1. Responsable del tratamiento\n\n- Responsable: Sergio San Pedro Alvarez.\n- Email de contacto: contacto@gurepintxo.com.\n\n2. Datos que recogemos\n\n- Datos de cuenta: nombre, email y contraseña (almacenada de forma cifrada, nunca en texto plano) al registrarte.\n- Foto de perfil (avatar): si decides añadirla. Se muestra junto a tu nombre en las reseñas que publiques.\n- Ubicación: si nos das permiso, usamos la ubicación de tu dispositivo para mostrarte los bares más cercanos, calcular distancias y centrar el mapa. La ubicación se procesa únicamente en tu dispositivo: no la enviamos a nuestro servidor ni la almacenamos. Puedes retirar este permiso en cualquier momento desde los ajustes de tu dispositivo, aunque algunas funciones del mapa dejarán de estar disponibles.\n- Contenido que generas: tus favoritos, las rutas que creas, las reseñas que publicas (valoración, comentario y, si las añades, fotos) y los bares que sugieres.\n- Datos técnicos básicos necesarios para el funcionamiento de la app (por ejemplo, el token de sesión que te mantiene identificado).\n\n3. Para qué usamos tus datos y con qué base legal\n\nEjecución del servicio que solicitas al registrarte (art. 6.1.b del RGPD):\n- Crear y gestionar tu cuenta y mantener tu sesión iniciada.\n- Verificar tu email al registrarte, mediante un correo automático.\n- Guardar y mostrarte tus favoritos, rutas y reseñas.\n- Mostrar tus reseñas de forma pública a otros usuarios de la app, junto a tu nombre y tu foto de perfil.\n- Gestionar los bares que sugieras.\n\nConsentimiento (art. 6.1.a del RGPD):\n- Ubicación: solo si concedes el permiso en tu dispositivo.\n- Fotos: tu foto de perfil y las fotos de tus reseñas, que subes de forma voluntaria.\nPuedes retirar tu consentimiento en cualquier momento desactivando el permiso de ubicación, eliminando las reseñas a las que hayas añadido fotos o escribiéndonos a contacto@gurepintxo.com para borrar tu foto de perfil, sin que ello afecte a la licitud del tratamiento previo.\n\nInterés legítimo (art. 6.1.f del RGPD):\n- Garantizar la seguridad de la app y de sus usuarios y prevenir abusos.\n- Moderar el contenido: revisar las reseñas denunciadas y los bares sugeridos antes de publicarlos.\n\n4. Con quién compartimos tus datos\n\nNo vendemos ni cedemos tus datos personales a terceros con fines comerciales. Para que la app funcione utilizamos los siguientes proveedores, que tratan datos en nuestro nombre y solo para prestarnos su servicio:\n\n- Railway: alojamiento del servidor y de la base de datos de la app.\n- Cloudinary: almacenamiento de las fotos (foto de perfil y fotos de reseñas).\n- Brevo: envío de los correos de verificación de email.\n- Google Maps Platform: visualización de mapas y búsqueda de bares cuando sugieres uno nuevo.\n\nAlgunos de estos proveedores están ubicados en Estados Unidos o pueden tratar datos allí. En esos casos, las transferencias internacionales se amparan en las garantías previstas en el RGPD: el Marco de Privacidad de Datos UE-EE. UU., cuando el proveedor está adherido a él, o las cláusulas contractuales tipo aprobadas por la Comisión Europea.\n\n5. Cuánto tiempo conservamos tus datos\n\nConservamos tus datos mientras tu cuenta esté activa. Si eliminas tu cuenta:\n\n- Se borran tus datos personales (nombre, email, contraseña y foto de perfil), tus rutas y tus favoritos.\n- Tus reseñas, sus fotos y los bares que hayas sugerido se conservan de forma anónima: dejan de estar vinculados a ti y aparecen como \"Anónimo\".\n- Desde la app solo puedes eliminar tus reseñas: si no quieres que se conserven, elimínalas antes de eliminar tu cuenta. Los bares sugeridos no se pueden eliminar desde la app; para borrarlos, escríbenos a contacto@gurepintxo.com.\n\nTodo ello salvo que la ley nos obligue a conservar algún dato concreto durante un plazo determinado.\n\n6. Tus derechos\n\nPuedes ejercer en cualquier momento tus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad de tus datos:\n\n- Desde la app: en tu Perfil puedes editar tus datos y eliminar tu cuenta.\n- Por email: escribiéndonos a contacto@gurepintxo.com.\n\nSi consideras que no hemos tratado tus datos correctamente, tienes derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es).\n\n7. Menores de edad\n\nGurePintxo no está dirigida a menores de 14 años y no recogemos intencionadamente datos de menores de esa edad. Si detectamos una cuenta de un menor de 14 años, la eliminaremos.\n\n8. Cambios en esta política\n\nPodemos actualizar esta política ocasionalmente. Si hacemos cambios importantes, te lo notificaremos dentro de la app.\n\n9. Contacto\n\nSi tienes cualquier duda sobre esta política de privacidad, escríbenos a contacto@gurepintxo.com."
+    },
+    "terms": {
+      "title": "Términos de Uso",
+      "description": "Condiciones de uso de la app GurePintxo.",
+      "body": "Última actualización: 2 de octubre de 2026\n\nAl usar GurePintxo, aceptas los siguientes términos. Si no estás de acuerdo con ellos, no utilices la app.\n\n1. Qué es GurePintxo\n\nGurePintxo es un directorio de bares de pintxos adheridos al club de producto Euskadi Gastronomika, con funciones de mapa, favoritos, rutas personalizadas, reseñas de usuarios y bares sugeridos por la comunidad. El responsable de la app es Sergio San Pedro Alvarez (contacto@gurepintxo.com).\n\n2. Edad mínima\n\nDebes tener al menos 14 años para crear una cuenta y usar GurePintxo.\n\n3. Tu cuenta\n\n- Debes proporcionar información veraz al registrarte.\n- Eres responsable de mantener la confidencialidad de tu contraseña.\n- No está permitido crear cuentas con el propósito de suplantar a otra persona o negocio.\n\n4. Contenido que publicas\n\nAl escribir una reseña o subir una foto, mantienes la propiedad de ese contenido, pero nos concedes permiso para mostrarlo dentro de la app junto a tu nombre de usuario y tu foto de perfil.\n\nLas reseñas deben:\n- Reflejar tu opinión honesta y tu experiencia real en el bar.\n- No contener lenguaje ofensivo, difamatorio, spam o contenido ilegal.\n- No infringir derechos de terceros (por ejemplo, fotos que no sean tuyas).\n\nCualquier usuario puede denunciar una reseña que considere inapropiada. Las denuncias las revisa la administración de GurePintxo, que decidirá si la reseña se mantiene o se elimina.\n\nNos reservamos el derecho de eliminar contenido que incumpla estas normas y de suspender las cuentas que las incumplan de forma reiterada.\n\n5. Origen de los datos de los bares\n\n- Bares oficiales: sus datos proceden de Open Data Euskadi (Gobierno Vasco) y se reutilizan conforme a su licencia. Fuente: Open Data Euskadi, Gobierno Vasco (licencia CC BY 4.0).\n- Bares sugeridos por la comunidad: se localizan mediante Google Maps. Cada sugerencia pasa por un proceso de revisión antes de publicarse y no garantizamos que todas sean aceptadas.\n\n6. Uso permitido de la app\n\nNo está permitido:\n- Intentar acceder a datos de otros usuarios sin autorización.\n- Usar la app para fines distintos a los previstos (por ejemplo, scraping masivo de datos).\n- Interferir con el funcionamiento normal de la app o sus servidores.\n\n7. Disponibilidad del servicio\n\nGurePintxo se ofrece \"tal cual\". Hacemos lo posible por mantener la información de los bares actualizada, pero no garantizamos que los datos (horarios, dirección, etc.) sean siempre exactos; te recomendamos confirmarlos directamente con el bar si tienes dudas.\n\n8. Eliminación de cuenta\n\nPuedes eliminar tu cuenta en cualquier momento desde tu Perfil. Al hacerlo, se borran tus datos personales, tus rutas y tus favoritos. Tus reseñas, sus fotos y los bares que hayas sugerido se conservan de forma anónima y aparecen como \"Anónimo\". Desde la app solo puedes eliminar tus reseñas: si no quieres que se conserven, elimínalas antes de eliminar tu cuenta. Para borrar los bares que hayas sugerido, escríbenos a contacto@gurepintxo.com. Encontrarás más detalles en nuestra Política de Privacidad.\n\n9. Cambios en estos términos\n\nPodemos actualizar estos términos ocasionalmente. El uso continuado de la app tras un cambio implica la aceptación de los nuevos términos.\n\n10. Legislación aplicable\n\nEstos términos se rigen por la legislación española, sin perjuicio de los derechos que te reconozca la normativa de protección de consumidores aplicable.\n\n11. Contacto\n\nPara cualquier consulta sobre estos términos, escríbenos a contacto@gurepintxo.com."
+    }
+  },
+  "deleteAccount": {
+    "title": "Eliminar tu cuenta",
+    "description": "Cómo eliminar tu cuenta de GurePintxo y qué ocurre con tus datos.",
+    "intro": "Puedes eliminar tu cuenta de GurePintxo en cualquier momento desde la propia app.",
+    "howTitle": "Cómo eliminarla desde la app",
+    "steps": [
+      "Abre GurePintxo e inicia sesión.",
+      "Ve a la pestaña Perfil.",
+      "Pulsa «Eliminar cuenta» y confirma."
+    ],
+    "deletedTitle": "Qué se borra",
+    "deleted": [
+      "Tu cuenta y tus datos personales (nombre, email, contraseña y foto de perfil).",
+      "Tus rutas.",
+      "Tus favoritos."
+    ],
+    "keptTitle": "Qué se conserva de forma anónima",
+    "keptIntro": "Lo siguiente se mantiene, pero sin tu nombre ni ningún dato personal (aparece como «Anónimo»):",
+    "kept": [
+      "Tus reseñas, con sus fotos.",
+      "Los bares que hayas sugerido que estén pendientes de revisión o aprobados."
+    ],
+    "rejectedNote": "Los bares sugeridos que fueron rechazados se borran.",
+    "tip": "Si no quieres que se conserven tus reseñas, puedes eliminarlas tú mismo desde la app antes de borrar tu cuenta.",
+    "fullTitle": "Borrar también tus reseñas y fotos",
+    "fullText": "Para pedir que eliminemos también tus reseñas y fotos anonimizadas, escríbenos a:"
+  }
+}
