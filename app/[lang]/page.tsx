@@ -30,16 +30,17 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
   return (
     <>
       {/* HERO */}
-      <section className="mx-auto grid max-w-5xl items-center gap-10 px-4 py-14 sm:px-6 sm:py-20 md:grid-cols-[1.2fr_1fr]">
-        <div>
+      {/* Móvil: una columna centrada (texto arriba, captura debajo). Desde md: dos columnas centradas en vertical. */}
+      <section className="mx-auto grid max-w-7xl items-center gap-6 px-4 py-14 sm:px-6 sm:py-20 md:gap-10 md:grid-cols-[1.2fr_1fr]">
+        <div className="min-w-0 text-center md:text-left">
           <p className="font-mono text-sm uppercase tracking-widest text-pimiento">{home.eyebrow}</p>
-          <h1 className="mt-4 font-display text-5xl font-semibold tracking-tight sm:text-7xl">
+          <h1 className="mt-4 font-display text-4xl font-semibold tracking-tight sm:text-6xl lg:text-7xl">
             GurePintxo
           </h1>
-          <p className="mt-5 max-w-md text-lg text-ink/75 sm:text-xl">{home.tagline}</p>
+          <p className="mx-auto mt-5 max-w-md text-lg text-ink/75 sm:text-xl md:mx-0">{home.tagline}</p>
 
-          {/* Botón de Google Play desactivado hasta que la app esté publicada */}
-          <div className="mt-8 inline-flex cursor-not-allowed items-center gap-3 rounded-2xl bg-ink px-5 py-3 text-paper opacity-90" aria-disabled="true">
+          {/* Botón de Google Play desactivado hasta que la app esté publicada. En móvil, centrado y con el ancho del logo. */}
+          <div className="mx-auto mt-8 flex w-full max-w-56 cursor-not-allowed items-center justify-center gap-3 rounded-2xl bg-ink px-5 py-3 text-left text-paper opacity-90 sm:max-w-72 md:mx-0 md:inline-flex md:w-auto md:max-w-none md:justify-start" aria-disabled="true">
             <PlayIcon />
             <span className="flex flex-col leading-tight">
               <span className="font-mono text-[11px] uppercase tracking-wider text-txakoli">{home.comingSoon}</span>
@@ -54,15 +55,16 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
             alt="GurePintxo"
             width={512}
             height={512}
-            priority
-            className="w-56 rounded-[2rem] shadow-xl shadow-ink/20 sm:w-72"
+            preload
+            sizes="(min-width: 640px) 288px, 224px"
+            className="w-56 rounded-4xl shadow-xl shadow-ink/20 sm:w-72"
           />
         </div>
       </section>
 
       {/* CAPTURAS */}
       <section className="bg-ink py-14 text-paper sm:py-20">
-        <div className="mx-auto max-w-5xl px-4 sm:px-6">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6">
           <h2 className="font-display text-3xl font-semibold sm:text-4xl">{home.screenshotsTitle}</h2>
           {/* En móvil: carrusel horizontal con scroll. En escritorio: 4 columnas. */}
           <ul className="mt-10 flex snap-x snap-mandatory gap-5 overflow-x-auto pb-4 md:grid md:grid-cols-4 md:overflow-visible">
@@ -83,7 +85,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
       </section>
 
       {/* CÓMO FUNCIONA */}
-      <section className="mx-auto max-w-5xl px-4 py-14 sm:px-6 sm:py-20">
+      <section className="mx-auto max-w-7xl px-4 py-14 sm:px-6 sm:py-20">
         <h2 className="font-display text-3xl font-semibold sm:text-4xl">{home.howTitle}</h2>
         <ol className="mt-10 grid gap-6 sm:grid-cols-2">
           {FEATURES.map(({ key }, i) => (
@@ -97,7 +99,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
       </section>
 
       {/* ORIGEN DE LOS BARES */}
-      <section className="mx-auto max-w-5xl px-4 pb-16 sm:px-6 sm:pb-24">
+      <section className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 sm:pb-24">
         <h2 className="font-display text-3xl font-semibold sm:text-4xl">{home.sources.title}</h2>
         <div className="mt-8 grid gap-6 sm:grid-cols-2">
           <div className="rounded-2xl bg-sagardo/20 p-6">

@@ -1,7 +1,7 @@
 {
   "meta": {
     "homeTitle": "GurePintxo · Pintxo bars in the Basque Country",
-    "homeDescription": "Discover the best pintxo bars in the Basque Country: a map of nearby bars, reviews with photos and your own pintxo routes."
+    "homeDescription": "Discover pintxo bars in the Basque Country: a map of nearby bars, reviews with photos and your own pintxo routes."
   },
   "nav": {
     "home": "Home",
@@ -15,7 +15,7 @@
   },
   "home": {
     "eyebrow": "Pintxo bars in the Basque Country",
-    "tagline": "The best pintxo bars in the Basque Country, in your pocket.",
+    "tagline": "Pintxo bars in the Basque Country, in your pocket.",
     "playButton": "Google Play",
     "comingSoon": "Coming soon",
     "screenshotsTitle": "A look inside the app",

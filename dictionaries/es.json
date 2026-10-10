@@ -1,7 +1,7 @@
 {
   "meta": {
     "homeTitle": "GurePintxo · Bares de pintxos de Euskadi",
-    "homeDescription": "Descubre los mejores bares de pintxos de Euskadi: mapa de bares cercanos, reseñas con fotos y tus propias rutas de pintxos."
+    "homeDescription": "Descubre los bares de pintxos de Euskadi: mapa de bares cercanos, reseñas con fotos y tus propias rutas de pintxos."
   },
   "nav": {
     "home": "Inicio",
@@ -15,7 +15,7 @@
   },
   "home": {
     "eyebrow": "Bares de pintxos de Euskadi",
-    "tagline": "Los mejores bares de pintxos de Euskadi, en tu bolsillo.",
+    "tagline": "Los bares de pintxos de Euskadi, en tu bolsillo.",
     "playButton": "Google Play",
     "comingSoon": "Próximamente",
     "screenshotsTitle": "Así es la app",
