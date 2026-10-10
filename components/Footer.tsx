@@ -13,7 +13,7 @@ export default function Footer({ lang, dict }: { lang: Locale; dict: Dictionary 
 
   return (
     <footer className="bg-ink text-paper">
-      <div className="mx-auto flex max-w-5xl flex-col gap-6 px-4 py-10 sm:flex-row sm:items-end sm:justify-between sm:px-6">
+      <div className="mx-auto flex max-w-7xl flex-col gap-6 px-4 py-10 sm:flex-row sm:items-end sm:justify-between sm:px-6">
         <div>
           <p className="font-display text-2xl font-semibold">GurePintxo</p>
           <p className="mt-2 text-sm text-paper/70">

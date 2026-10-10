@@ -1,8 +1,8 @@
 {
-  "_REVISAR": "REVISAR: JSON no admite comentarios, por eso esta nota va como clave. Todos los textos de este archivo son traducciones nuevas y debe revisarlos alguien con buen euskera, EXCEPTO legal.privacy.body, legal.terms.body y los títulos legal.*.title, que vienen copiados de la app.",
+  "_REVISAR": "REVISAR: JSON no admite comentarios, por eso esta nota va como clave. Todos los textos de este archivo son traducciones nuevas y debe revisarlos alguien con buen euskera, EXCEPTO legal.privacy.body, legal.terms.body y los títulos legal.*.title, que vienen copiados de la app. Cambios recientes a revisar también (se ha quitado \"onenak\"): home.tagline (\"Euskadiko pintxo-tabernak, zure poltsikoan.\") y meta.homeDescription (\"Aurkitu Euskadiko pintxo-tabernak: ...\").",
   "meta": {
     "homeTitle": "GurePintxo · Euskadiko pintxo-tabernak",
-    "homeDescription": "Aurkitu Euskadiko pintxo-taberna onenak: gertuko tabernen mapa, iruzkinak argazkiekin eta zure pintxo-ibilbide propioak."
+    "homeDescription": "Aurkitu Euskadiko pintxo-tabernak: gertuko tabernen mapa, iruzkinak argazkiekin eta zure pintxo-ibilbide propioak."
   },
   "nav": {
     "home": "Hasiera",
@@ -16,7 +16,7 @@
   },
   "home": {
     "eyebrow": "Euskadiko pintxo-tabernak",
-    "tagline": "Euskadiko pintxo-taberna onenak, zure poltsikoan.",
+    "tagline": "Euskadiko pintxo-tabernak, zure poltsikoan.",
     "playButton": "Google Play",
     "comingSoon": "Laster",
     "screenshotsTitle": "Horrelakoa da aplikazioa",
