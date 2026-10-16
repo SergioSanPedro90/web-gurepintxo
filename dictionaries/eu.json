@@ -1,5 +1,5 @@
 {
-  "_REVISAR": "REVISAR: JSON no admite comentarios, por eso esta nota va como clave. Todos los textos de este archivo son traducciones nuevas y debe revisarlos alguien con buen euskera, EXCEPTO legal.privacy.body, legal.terms.body y los títulos legal.*.title, que vienen copiados de la app. Cambios recientes a revisar también (se ha quitado \"onenak\"): home.tagline (\"Euskadiko pintxo-tabernak, zure poltsikoan.\") y meta.homeDescription (\"Aurkitu Euskadiko pintxo-tabernak: ...\").",
+  "_REVISAR": "REVISAR: JSON no admite comentarios, por eso esta nota va como clave. Todos los textos de este archivo son traducciones nuevas y debe revisarlos alguien con buen euskera, EXCEPTO legal.privacy.body, legal.terms.body y los títulos legal.*.title, que vienen copiados de la app. Cambios recientes a revisar también (se ha quitado \"onenak\"): home.tagline (\"Euskadiko pintxo-tabernak, zure poltsikoan.\") y meta.homeDescription (\"Aurkitu Euskadiko pintxo-tabernak: ...\"). Nuevo, también a revisar: footer.support y home.support (sección de donaciones Ko-fi: título, texto y botón).",
   "meta": {
     "homeTitle": "GurePintxo · Euskadiko pintxo-tabernak",
     "homeDescription": "Aurkitu Euskadiko pintxo-tabernak: gertuko tabernen mapa, iruzkinak argazkiekin eta zure pintxo-ibilbide propioak."
@@ -12,7 +12,8 @@
     "privacy": "Pribatutasuna",
     "terms": "Baldintzak",
     "deleteAccount": "Kontua ezabatu",
-    "contact": "Harremanetarako"
+    "contact": "Harremanetarako",
+    "support": "Lagundu proiektuari"
   },
   "home": {
     "eyebrow": "Euskadiko pintxo-tabernak",
@@ -45,6 +46,11 @@
       "official": "Eusko Jaurlaritzaren Euskadi Gastronomika produktu-klubari atxikitako tabernak dira, Open Data Euskadiko datuekin.",
       "communityTitle": "Komunitatearen tabernak",
       "community": "Edozein erabiltzailek iradoki ditzake taberna berriak. Administratzaile batek iradokizun bakoitza berrikusten du argitaratu aurretik."
+    },
+    "support": {
+      "title": "Lagundu proiektuari",
+      "text": "GurePintxo doakoa da eta ez du publizitaterik. Erabilgarria iruditzen bazaizu, pintxo batera gonbida nazakezu zerbitzariei eusten laguntzeko.",
+      "button": "Gonbidatu nazazu pintxo batera 🍢"
     }
   },
   "legal": {
