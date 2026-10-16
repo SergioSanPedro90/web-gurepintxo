@@ -11,7 +11,8 @@
     "privacy": "Privacy",
     "terms": "Terms",
     "deleteAccount": "Delete account",
-    "contact": "Contact"
+    "contact": "Contact",
+    "support": "Support the project"
   },
   "home": {
     "eyebrow": "Pintxo bars in the Basque Country",
@@ -44,6 +45,11 @@
       "official": "These are the bars that belong to the Basque Government's Euskadi Gastronomika product club, with data from Open Data Euskadi.",
       "communityTitle": "Community bars",
       "community": "Any user can suggest new bars. An administrator reviews every suggestion before it is published."
+    },
+    "support": {
+      "title": "Support the project",
+      "text": "GurePintxo is free and ad-free. If you find it useful, you can buy me a pintxo to help keep the servers running.",
+      "button": "Buy me a pintxo 🍢"
     }
   },
   "legal": {

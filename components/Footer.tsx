@@ -9,6 +9,7 @@ export default function Footer({ lang, dict }: { lang: Locale; dict: Dictionary 
     { href: `/${lang}/privacidad`, label: dict.footer.privacy },
     { href: `/${lang}/terminos`, label: dict.footer.terms },
     { href: `/${lang}/eliminar-cuenta`, label: dict.footer.deleteAccount },
+    { href: `/${lang}#apoyar`, label: dict.footer.support }, // sección de donaciones de la home
   ];
 
   return (

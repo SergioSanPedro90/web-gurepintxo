@@ -11,6 +11,9 @@ const FEATURES = [
   { key: "routes", image: "/screenshots/rutas.png" },
 ] as const;
 
+// Página de donaciones. Enlace normal, sin el widget/script de Ko-fi.
+const KOFI_URL = "https://ko-fi.com/gurepintxo";
+
 // Título y descripción de la pestaña/buscadores, traducidos.
 export async function generateMetadata({ params }: PageProps<"/[lang]">): Promise<Metadata> {
   const { lang } = await params;
@@ -110,6 +113,22 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
             <h3 className="font-display text-xl font-semibold">{home.sources.communityTitle}</h3>
             <p className="mt-2 text-ink/80">{home.sources.community}</p>
           </div>
+        </div>
+      </section>
+
+      {/* APOYA EL PROYECTO (ancla #apoyar, enlazada desde el footer). scroll-mt deja hueco para la cabecera fija. */}
+      <section id="apoyar" className="mx-auto max-w-7xl scroll-mt-20 px-4 pb-16 sm:px-6 sm:pb-24">
+        <div className="rounded-2xl bg-pimiento/10 p-6 text-center sm:p-10">
+          <h2 className="font-display text-3xl font-semibold sm:text-4xl">{home.support.title}</h2>
+          <p className="mx-auto mt-4 max-w-xl text-lg text-ink/80">{home.support.text}</p>
+          <a
+            href={KOFI_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-8 inline-flex items-center justify-center rounded-2xl bg-pimiento px-6 py-3 text-lg font-semibold text-paper transition-colors hover:bg-ink"
+          >
+            {home.support.button}
+          </a>
         </div>
       </section>
     </>

@@ -11,7 +11,8 @@
     "privacy": "Privacidad",
     "terms": "Términos",
     "deleteAccount": "Eliminar cuenta",
-    "contact": "Contacto"
+    "contact": "Contacto",
+    "support": "Apoya el proyecto"
   },
   "home": {
     "eyebrow": "Bares de pintxos de Euskadi",
@@ -44,6 +45,11 @@
       "official": "Son los bares adheridos al club de producto Euskadi Gastronomika del Gobierno Vasco, con datos de Open Data Euskadi.",
       "communityTitle": "Bares de la comunidad",
       "community": "Cualquier usuario puede sugerir bares nuevos. Un administrador revisa cada sugerencia antes de publicarla."
+    },
+    "support": {
+      "title": "Apoya el proyecto",
+      "text": "GurePintxo es gratis y sin publicidad. Si te resulta útil, puedes invitarme a un pintxo para ayudar a mantener los servidores.",
+      "button": "Invítame a un pintxo 🍢"
     }
   },
   "legal": {
