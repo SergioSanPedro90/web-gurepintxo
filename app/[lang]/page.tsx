@@ -6,7 +6,7 @@ import { getDictionary, isLocale } from "@/lib/i18n";
 // Las 4 funciones de la app. "image" es el archivo en public/screenshots/.
 const FEATURES = [
   { key: "nearby", image: "/screenshots/cerca.jpg" },
-  { key: "discover", image: "/screenshots/descubrir.png" },
+  { key: "discover", image: "/screenshots/descubrir.jpg" },
   { key: "bar", image: "/screenshots/ficha-bar.jpg" },
   { key: "routes", image: "/screenshots/rutas.jpg" },
 ] as const;
