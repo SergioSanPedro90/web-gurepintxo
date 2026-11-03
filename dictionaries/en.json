@@ -26,9 +26,9 @@
         "name": "Nearby",
         "text": "Open the map and see which pintxo bars are around you. Filter by gluten-free, vegan or dog-friendly."
       },
-      "discover": {
-        "name": "Discover",
-        "text": "Browse bars by town, the top-rated ones and the latest additions from the community. Search by bar, town or province."
+      "search": {
+        "name": "Search",
+        "text": "Search by bar, town or province. Or browse bars by town, the top-rated ones and the latest additions from the community."
       },
       "bar": {
         "name": "Bar details",

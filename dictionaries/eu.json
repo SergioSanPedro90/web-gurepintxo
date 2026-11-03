@@ -1,5 +1,5 @@
 {
-  "_REVISAR": "REVISAR: JSON no admite comentarios, por eso esta nota va como clave. Todos los textos de este archivo son traducciones nuevas y debe revisarlos alguien con buen euskera, EXCEPTO legal.privacy.body, legal.terms.body y los títulos legal.*.title, que vienen copiados de la app. Cambios recientes a revisar también (se ha quitado \"onenak\"): home.tagline (\"Euskadiko pintxo-tabernak, zure poltsikoan.\") y meta.homeDescription (\"Aurkitu Euskadiko pintxo-tabernak: ...\"). Nuevo, también a revisar: footer.support y home.support (sección de donaciones Ko-fi: título, texto y botón).",
+  "_REVISAR": "REVISAR: JSON no admite comentarios, por eso esta nota va como clave. Todos los textos de este archivo son traducciones nuevas y debe revisarlos alguien con buen euskera, EXCEPTO legal.privacy.body, legal.terms.body y los títulos legal.*.title, que vienen copiados de la app. Cambios recientes a revisar también (se ha quitado \"onenak\"): home.tagline (\"Euskadiko pintxo-tabernak, zure poltsikoan.\") y meta.homeDescription (\"Aurkitu Euskadiko pintxo-tabernak: ...\"). Nuevo, también a revisar: footer.support y home.support (sección de donaciones Ko-fi: título, texto y botón). También a revisar: home.features.search (antes \"Aurkitu\", ahora \"Bilatu\", con el texto reordenado).",
   "meta": {
     "homeTitle": "GurePintxo · Euskadiko pintxo-tabernak",
     "homeDescription": "Aurkitu Euskadiko pintxo-tabernak: gertuko tabernen mapa, iruzkinak argazkiekin eta zure pintxo-ibilbide propioak."
@@ -27,9 +27,9 @@
         "name": "Gertu",
         "text": "Ireki mapa eta ikusi zer pintxo-taberna dituzun inguruan. Iragazi glutenik gabekoak, beganoak edo txakurrak onartzen dituztenak."
       },
-      "discover": {
-        "name": "Aurkitu",
-        "text": "Arakatu tabernak herriz herri, balorazio onenekoak eta komunitatearen berritasunak. Bilatu taberna, herria edo probintzia."
+      "search": {
+        "name": "Bilatu",
+        "text": "Bilatu taberna, herria edo probintzia. Edo arakatu tabernak herriz herri, balorazio onenekoak eta komunitatearen berritasunak."
       },
       "bar": {
         "name": "Tabernaren fitxa",
