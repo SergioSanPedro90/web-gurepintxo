@@ -26,9 +26,9 @@
         "name": "Cerca",
         "text": "Abre el mapa y mira qué bares de pintxos tienes a tu alrededor. Filtra por sin gluten, vegano o si admiten perros."
       },
-      "discover": {
-        "name": "Descubrir",
-        "text": "Explora bares por pueblos, los mejor valorados y las novedades de la comunidad. Busca por bar, pueblo o provincia."
+      "search": {
+        "name": "Buscar",
+        "text": "Busca por bar, pueblo o provincia. Y si no sabes qué buscar, explora bares por pueblos, los mejor valorados y las novedades de la comunidad."
       },
       "bar": {
         "name": "Ficha de bar",
