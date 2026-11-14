@@ -2,6 +2,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import { getDictionary, isLocale } from "@/lib/i18n";
+import { KOFI_URL } from "@/lib/links";
 
 // Las 4 funciones de la app. "image" es el archivo en public/screenshots/.
 const FEATURES = [
@@ -10,9 +11,6 @@ const FEATURES = [
   { key: "bar", image: "/screenshots/ficha-bar.jpg" },
   { key: "routes", image: "/screenshots/rutas.jpg" },
 ] as const;
-
-// Página de donaciones. Enlace normal, sin el widget/script de Ko-fi.
-const KOFI_URL = "https://ko-fi.com/gurepintxo";
 
 // Título y descripción de la pestaña/buscadores, traducidos.
 export async function generateMetadata({ params }: PageProps<"/[lang]">): Promise<Metadata> {
