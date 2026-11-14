@@ -5,7 +5,12 @@
   },
   "nav": {
     "home": "Inicio",
-    "language": "Idioma"
+    "language": "Idioma",
+    "support": {
+      "full": "Invítame a un pintxo",
+      "short": "Apoyar",
+      "ariaLabel": "Apoya el proyecto en Ko-fi"
+    }
   },
   "footer": {
     "privacy": "Privacidad",

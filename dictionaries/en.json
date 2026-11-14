@@ -5,7 +5,12 @@
   },
   "nav": {
     "home": "Home",
-    "language": "Language"
+    "language": "Language",
+    "support": {
+      "full": "Buy me a pintxo",
+      "short": "Support",
+      "ariaLabel": "Support the project on Ko-fi"
+    }
   },
   "footer": {
     "privacy": "Privacy",

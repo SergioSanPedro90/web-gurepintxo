@@ -1,12 +1,17 @@
 {
-  "_REVISAR": "REVISAR: JSON no admite comentarios, por eso esta nota va como clave. Todos los textos de este archivo son traducciones nuevas y debe revisarlos alguien con buen euskera, EXCEPTO legal.privacy.body, legal.terms.body y los títulos legal.*.title, que vienen copiados de la app. Cambios recientes a revisar también (se ha quitado \"onenak\"): home.tagline (\"Euskadiko pintxo-tabernak, zure poltsikoan.\") y meta.homeDescription (\"Aurkitu Euskadiko pintxo-tabernak: ...\"). Nuevo, también a revisar: footer.support y home.support (sección de donaciones Ko-fi: título, texto y botón). También a revisar: home.features.search (antes \"Aurkitu\", ahora \"Bilatu\", con el texto reordenado).",
+  "_REVISAR": "REVISAR: JSON no admite comentarios, por eso esta nota va como clave. Todos los textos de este archivo son traducciones nuevas y debe revisarlos alguien con buen euskera, EXCEPTO legal.privacy.body, legal.terms.body y los títulos legal.*.title, que vienen copiados de la app. Cambios recientes a revisar también (se ha quitado \"onenak\"): home.tagline (\"Euskadiko pintxo-tabernak, zure poltsikoan.\") y meta.homeDescription (\"Aurkitu Euskadiko pintxo-tabernak: ...\"). Nuevo, también a revisar: footer.support y home.support (sección de donaciones Ko-fi: título, texto y botón). También a revisar: home.features.search (antes \"Aurkitu\", ahora \"Bilatu\", con el texto reordenado). Nuevo, también a revisar: nav.support (botón de Ko-fi de la cabecera: \"Gonbidatu nazazu pintxo batera\", texto corto \"Lagundu\" y aria-label \"Lagundu proiektua Ko-fin\").",
   "meta": {
     "homeTitle": "GurePintxo · Euskadiko pintxo-tabernak",
     "homeDescription": "Aurkitu Euskadiko pintxo-tabernak: gertuko tabernen mapa, iruzkinak argazkiekin eta zure pintxo-ibilbide propioak."
   },
   "nav": {
     "home": "Hasiera",
-    "language": "Hizkuntza"
+    "language": "Hizkuntza",
+    "support": {
+      "full": "Gonbidatu nazazu pintxo batera",
+      "short": "Lagundu",
+      "ariaLabel": "Lagundu proiektua Ko-fin"
+    }
   },
   "footer": {
     "privacy": "Pribatutasuna",
